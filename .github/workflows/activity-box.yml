@@ -15,4 +15,4 @@ jobs:
           GH_PAT: ${{ secrets.GH_PAT }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_USERNAME: DonovanDMC
-          GIST_ID: 2d0a69020647237b4a261b46eacfe743
+          GIST_ID: 48134655d06b499be46566a753d151ee
